@@ -1,3 +1,5 @@
 #!/usr/bin/env python3
 
-wrong_type = 'abc' + 123
+corrected = 'abc' + str(123)
+
+print(corrected)

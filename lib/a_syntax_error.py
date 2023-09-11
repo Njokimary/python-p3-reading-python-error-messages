@@ -1,3 +1,6 @@
 #!/usr/bin/env python3
 
-poor_syntax = 2 * #
+result = 2 * 6
+
+# Print the result
+print(result)
